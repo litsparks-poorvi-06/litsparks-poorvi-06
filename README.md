@@ -26,6 +26,7 @@ Email Me 👉 ✉️ **poorvidabral@gmail.com** For Collaboration/Project or Any
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=litsparks-poorvi-06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+## Snake Game
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
