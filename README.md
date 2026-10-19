@@ -1,5 +1,16 @@
-# 💫 About Me:
-Hi 👋, I'm Poorvi Dabral<br>A passionate Full Stack & Ml learner<br>🔭 I’m currently working on Gigsie<br><br>🌱 I’m currently learning Ml,DSA & Full Stack<br><br>👯 I’m looking to collaborate on Dermatology-AI-Robustness<br><br>🤝 I’m looking for help with Dermatology-AI-Robustness<br><br>👨‍💻 All of my projects are available at https://github.com/litsparks-poorvi-06<br><br>💬 Ask me about python,c,c++,product developement<br><br>📫 How to reach me poorvidabral@gmail.com<br><br>⚡ Fun fact I love to write
+# 💫 Hi 👋, I'm Poorvi Dabral
+**A passionate Full Stack learner || Machine Learning Enthausiast
+
+Email Me 👉 ✉️ **poorvidabral@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** GIGSIE
+- 🌱 **I’m currently learning:** DSA,ML & Full Stack
+- 👯 **I’m looking to collaborate on:** Dermatology-AI-Robustness
+- 🤔 **I’m looking for help with:** Dermatology-AI-Robustness
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** poorvidabral@gmail.com
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I Love Tech, Writing & Singing
 
 
 ## 🌐 Socials:
@@ -14,6 +25,10 @@ Hi 👋, I'm Poorvi Dabral<br>A passionate Full Stack & Ml learner<br>🔭 I’m
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=litsparks-poorvi-06&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
